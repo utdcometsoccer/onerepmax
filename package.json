@@ -1,0 +1,17 @@
+{
+  "name": "@idahoedokpayi/onerepmax",
+  "version": "1.0.0",
+  "description": "One Repetition Maximum Calculators",
+  "main": "dist/index.js",
+  "scripts": {
+    "executetest": "node -e \"require('./dist/OneRepMaxTest').OneRepMaxTest()\"",
+    "test": "npm run build && npm run executetest",
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
