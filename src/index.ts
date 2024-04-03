@@ -10,6 +10,8 @@ import { LombardiOneRepMaxCalculator } from "./LombardiOneRepMaxCalculator";
 import { MayhewOneRepMaxCalculator } from "./MayhewOneRepMaxCalculator";
 import { NaclerioOneRepMaxCalculator } from "./NaclerioOneRepMaxCalculator";
 import { OConnerOneRepMaxCalculator } from "./OConnerOneRepMaxCalculator";
+import {OneRepMaxArguments} from "./OneRepMaxArguments";
+import { OneRepMaxCalculator } from "./OneRepMaxCalculator";
 import { WalthenOneRepMaxCalculator } from "./WalthenOneRepMaxCalculator";
 import { OneRepMaxTest } from "./OneRepMaxTest";
 export {
@@ -25,6 +27,8 @@ export {
     MayhewOneRepMaxCalculator,
     NaclerioOneRepMaxCalculator,
     OConnerOneRepMaxCalculator,
+    OneRepMaxArguments,
+    OneRepMaxCalculator,
     OneRepMaxTest,
     WalthenOneRepMaxCalculator
 }
