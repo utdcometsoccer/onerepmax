@@ -1,6 +1,6 @@
 {
   "name": "@idahoedokpayi/onerepmax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "One Repetition Maximum Calculators",
   "main": "dist/index.js",
   "scripts": {
